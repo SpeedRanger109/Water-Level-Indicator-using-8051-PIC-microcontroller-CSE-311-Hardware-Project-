@@ -1,8 +1,5 @@
 # Water-Level-Indicator-using-8051-PIC-microcontroller-CSE-311-Hardware-Project-
  
-# Members
-* Kazi Mushfiq Rafid
-* Md. Mehedi Hasan
 
 # Objective
 
@@ -10,6 +7,10 @@ The objective is to build a Water level monitor system using a PIC16F877A microc
 device will detect the water level of the system(reservoir, tank e.t.c) and notify the user about
 the current state. Our device will notify the user about the current state of the water level via an
 LCD display.
+
+# Members
+* Kazi Mushfiq Rafid
+* Md. Mehedi Hasan
 
 # Applications
 Our device can be implemented in,
